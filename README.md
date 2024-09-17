@@ -103,6 +103,9 @@ Você deve enviar o link do repositório com as questões respondidas para o Moo
 
 [Anatomia de um teste em JavaScript](https://gabrieluizramos.com.br/anatomia-de-um-teste-em-javascript)
 
+[Jest Doc](https://jestjs.io/pt-BR/docs/setup-teardown#repetindo-a-configura%C3%A7%C3%A3o-para-v%C3%A1rios-testes)
+
+
 
 
 
