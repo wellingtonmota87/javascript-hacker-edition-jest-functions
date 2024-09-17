@@ -1,5 +1,5 @@
 
-# Introdução ao Desafio
+# 🚀 Introdução ao Desafio
 
 
 Neste desafio, você colocará à prova seus conhecimentos sobre funções e testes unitários. O objetivo é implementar diversas funções no arquivo `src/index.js` e garantir que todas elas sejam devidamente testadas através de testes unitários no arquivo `__tests__/index.test.js`.
