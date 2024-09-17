@@ -6,8 +6,7 @@
      
 #### Como forkar?
 
-Faça o fork desse repo: [https://github.com/campinho-digital/Como-fazer-um-Fork](https://github.com/campinho-digital/Como-fazer-um-Fork)  
-
+[Link como fazer Fork](https://github.com/campinho-digital/Como-fazer-um-Fork)
 
 2. Após o Fork
 
@@ -95,7 +94,7 @@ Você deve enviar o link do repositório com as questões respondidas para o Moo
 
 ### Links úteis
 
-[Texto do Link](URL)
+
 [Funções](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide/Functions)
 
 [Funções no JS](https://www.javascriptprogressivo.net/2018/12/Funcao-Parametro-Argumento-Retorno.html)
