@@ -6,8 +6,7 @@
      
 #### Como forkar?
 
-Faça o fork desse repo: [https://github.com/campinho-digital/Como-fazer-um-Fork](https://github.com/campinho-digital/Como-fazer-um-Fork)  
-
+[Link como fazer Fork](https://github.com/campinho-digital/Como-fazer-um-Fork)
 
 2. Após o Fork
 
@@ -64,16 +63,26 @@ npm start
 O código será executado, e você poderá ver a saída do `console.log` no terminal.
 
 6. Testando seu código com o  `Jest`
-   
-- Crie um arquivo de teste para o index.js (normalmente na pasta __tests__ ou diretamente no diretório principal)
-  
 
-Execute o Jest com o seguinte comando::
+   - Escreva suas funções no arquivo src/index.js.
+  ##### Todas as funções devem ser corretamente exportadas usando module.exports. Este é o arquivo onde você implementará as funcionalidades solicitadas.
+
+   - O arquivo de testes já está pronto!
+#### O arquivo de testes `__tests__/index.test.js` já está configurado e preparado para rodar os testes das funções que você escrever. Você não precisa criar novos arquivos de teste, apenas certifique-se de que todas as funções que você implementar no `index.js` estão cobertas pelos testes.
+
+- Certifique-se de testar todas as funções que você escreveu!
+Cada função que você criar no `src/index.js` deve ser testada no arquivo de teste correspondente. Se você adicionar uma nova função, certifique-se de que existe um teste para ela no arquivo de testes `__tests__/index.test.js`
+
+Rode os testes com o Jest.
+Para verificar se suas funções estão corretas, execute o seguinte comando no terminal:
+
 ~~~javascript
 npm test
 ~~~
 
-O código será executado, e você poderá ver a saída do `console.log` no terminal.
+Ao finalizar os testes você deverá ver a seguinte mensagem informando que todos os seus testes passaram:
+
+<img width="435" alt="Captura de Tela 2024-09-17 às 10 39 23" src="https://github.com/user-attachments/assets/5b725553-d228-455e-ba8c-c2c7f719a58e">
 
 7. Versionamento com Git
 Depois de responder às questões e adicionar comentários ao código, você precisa versionar essas alterações usando o Git.
@@ -84,3 +93,16 @@ Você deve enviar o link do repositório com as questões respondidas para o Moo
 
 
 ### Links úteis
+
+
+[Funções](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide/Functions)
+
+[Funções no JS](https://www.javascriptprogressivo.net/2018/12/Funcao-Parametro-Argumento-Retorno.html)
+
+[Testes de Unidade](https://aws.amazon.com/pt/what-is/unit-testing/)
+
+[Anatomia de um teste em JavaScript](https://gabrieluizramos.com.br/anatomia-de-um-teste-em-javascript)
+
+
+
+
