@@ -73,7 +73,12 @@ Execute o Jest com o seguinte comando::
 npm test
 ~~~
 
-O código será executado, e você poderá ver a saída do `console.log` no terminal.
+Ao finalizar os testes você deverá ver a seguinte mensagem informando que todos os seus testes passaram:
+
+
+<img width="435" alt="Captura de Tela 2024-09-17 às 10 39 23" src="https://github.com/user-attachments/assets/5b725553-d228-455e-ba8c-c2c7f719a58e">
+
+
 
 7. Versionamento com Git
 Depois de responder às questões e adicionar comentários ao código, você precisa versionar essas alterações usando o Git.
