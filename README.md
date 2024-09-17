@@ -2,9 +2,9 @@
 # Introdução ao Desafio
 
 
-Neste desafio, você colocará à prova seus conhecimentos sobre funções e testes unitários. O objetivo é implementar diversas funções no arquivo src/index.js e garantir que todas elas sejam devidamente testadas através de testes unitários no arquivo __tests__/index.test.js.
+Neste desafio, você colocará à prova seus conhecimentos sobre funções e testes unitários. O objetivo é implementar diversas funções no arquivo `src/index.js` e garantir que todas elas sejam devidamente testadas através de testes unitários no arquivo `__tests__/index.test.js`.
 
-Os testes já estão configurados para verificar se suas funções funcionam corretamente. Você só precisa se concentrar em implementar as funções e assegurar que cada uma delas passe nos testes. O Jest será utilizado como ferramenta para validar suas soluções.
+Os testes já estão configurados para verificar se suas funções funcionam corretamente. Você só precisa se concentrar em implementar as funções e assegurar que cada uma delas passe nos testes. O `Jest` será utilizado como ferramenta para validar suas soluções.
 
 Este é o momento de reforçar seus aprendizados sobre criação de funções e assegurar que seu código esteja devidamente coberto por testes, uma prática essencial para qualquer desenvolvedor.
 
