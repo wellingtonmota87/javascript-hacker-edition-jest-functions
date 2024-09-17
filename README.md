@@ -105,6 +105,9 @@ Você deve enviar o link do repositório com as questões respondidas para o Moo
 
 [Jest Doc](https://jestjs.io/pt-BR/docs/setup-teardown#repetindo-a-configura%C3%A7%C3%A3o-para-v%C3%A1rios-testes)
 
+[Import e export no JS](https://www.alura.com.br/artigos/como-funciona-o-import-e-export-do-javascript?srsltid=AfmBOoo-2uSgAbPe7kN4e8KPMtQFEa49Az5_2_I-WRVOL-2qHmgtA4KF)
+
+
 
 
 
