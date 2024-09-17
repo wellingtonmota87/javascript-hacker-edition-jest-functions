@@ -11,7 +11,7 @@ Este é o momento de reforçar seus aprendizados sobre criação de funções e 
 
 ## Instruções
 
-1. Fork do Repositório
+### 1. Fork do Repositório
    - Um "fork" é uma cópia de um repositório que fica no seu perfil GitHub. Você faz um fork para ter uma versão própria do projeto na qual você pode trabalhar. Isso permite que você modifique e experimente o código sem afetar o repositório original.
 
      
@@ -19,7 +19,7 @@ Este é o momento de reforçar seus aprendizados sobre criação de funções e 
 
 [Link como fazer Fork](https://github.com/campinho-digital/Como-fazer-um-Fork)
 
-2. Após o Fork
+### 2. Após o Fork
 
 - Clonar o Repositório Forkado
   
@@ -44,7 +44,7 @@ cd seu_repositorio
 Quando você clona um repositório, o Git cria uma nova pasta no seu sistema contendo todos os arquivos e a estrutura do projeto. Para trabalhar com esse projeto (editar arquivos, rodar scripts, instalar dependências, etc.), você precisa estar dentro dessa pasta. Se não navegar para essa pasta, você estará em uma localização diferente no seu sistema e os comandos que tentar rodar (como npm install ou git) não funcionarão corretamente, pois eles precisam ser executados no diretório correto.
 
 
-3. Instalar Dependências
+### 3. Instalar Dependências
 Se o projeto utiliza npm, você deve instalar as dependências:
 
 ~~~javascript
@@ -55,7 +55,7 @@ npm install
 #### ⚠️ Atenção 
 Se o projeto utiliza o Node.js e tem um arquivo package.json, você precisa rodar npm install para instalar todas as bibliotecas e dependências que o projeto necessita para funcionar. Sem isso, o projeto pode não rodar corretamente.
 
-4. Abrir o Arquivo index.js
+### 4. Abrir o Arquivo index.js
 Abra seu editor de código preferido (por exemplo, Visual Studio Code).
 No editor, abra o arquivo `index.js` que está no repositório.
 
@@ -64,7 +64,7 @@ No editor, abra o arquivo `index.js` que está no repositório.
 - Para cada questão, remova o comentário do console.log() relacionado àquela questão. Isso ajudará a testar e debugar o código.
 
 
-5. Testar o Projeto
+### 5. Rodando o projeto
 Use o comando `npm start` no terminal para executar o projeto e testar as respostas que você implementou no arquivo index.js.
 
 ~~~javascript
@@ -73,7 +73,7 @@ npm start
 
 O código será executado, e você poderá ver a saída do `console.log` no terminal.
 
-6. Testando seu código com o  `Jest`
+### 6. Testando seu código com o  `Jest`
 
    - Escreva suas funções no arquivo src/index.js.
   ##### Todas as funções devem ser corretamente exportadas usando module.exports. Este é o arquivo onde você implementará as funcionalidades solicitadas.
@@ -95,10 +95,10 @@ Ao finalizar os testes você deverá ver a seguinte mensagem informando que todo
 
 <img width="435" alt="Captura de Tela 2024-09-17 às 10 39 23" src="https://github.com/user-attachments/assets/5b725553-d228-455e-ba8c-c2c7f719a58e">
 
-7. Versionamento com Git
+### 7. Versionamento com Git
 Depois de responder às questões e adicionar comentários ao código, você precisa versionar essas alterações usando o Git.
 
-8. Enviar o Repositório para o Moodle
+### 8. Enviar o Repositório para o Moodle
 
 Você deve enviar o link do repositório com as questões respondidas para o Moodle, para que o instrutor possa revisar o seu trabalho. O link do GitHub facilita o acesso ao código e também permite que o instrutor veja todo o histórico de commits (versões anteriores do código), o que é útil para acompanhar seu progresso.
 
