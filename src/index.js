@@ -20,5 +20,4 @@ module.exports = {
   multiplicar,
   dividir,
   ehPar,
-  encontrarMaior,
 };
